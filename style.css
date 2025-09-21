@@ -20,6 +20,7 @@ body {
     flex-direction: column;
     overflow: hidden; /* Elimina el scroll */
     position: relative;
+    margin-top: 40px;
 }
 
 #text {
@@ -494,5 +495,6 @@ body {
     }
 }
 .footer{
-    margin:10px
+    margin-bottom: 80px;
+    margin-left: 20px;
 }
