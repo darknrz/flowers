@@ -20,7 +20,7 @@ body {
     flex-direction: column;
     overflow: hidden; /* Elimina el scroll */
     position: relative;
-    margin-top: 40px;
+
 }
 
 #text {
