@@ -196,7 +196,7 @@ body {
 
 .lyrics-text {
     color: #8b5a6b;
-    font-size: 24px;
+    font-size: 14px;
     font-style: italic;
     opacity: 0;
     transform: translateY(10px);
@@ -461,7 +461,7 @@ body {
 
 @media screen and (max-width: 480px) {
     #text {
-        font-size: 16px;
+        font-size: 24px;
         left: 3px;
         bottom: 3px;
     }
@@ -498,5 +498,5 @@ body {
     margin-bottom: 80px;
     margin-left: 20px;
     font-style: normal !important;
-    font-size: 16px !important;
+    font-size: 20px !important;
 }
